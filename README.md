@@ -1,5 +1,5 @@
-# Node CLI Template with Typescript
+# TUI for deleting multiple projects at once
 
-Replace __your-command-here__ in the package.json bin to with the name you want for your cli.
 
-Run `npm install -g .` at the root of the project. And then run `your-command-here` (or whatever you choose to call it) to evoke your cli.
+Make sure you have the Vercel CLI installed globally first (see [here](https://vercel.com/docs/cli#introduction/installing-the-cli) for instructions).
+
