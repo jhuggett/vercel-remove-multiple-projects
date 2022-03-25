@@ -1,4 +1,4 @@
-# TUI for deleting multiple projects at once
+# TUI for deleting multiple Vercel projects
 
 
 Make sure you have the Vercel CLI installed globally first. Install it by running `npm i -g vercel` (see [here](https://vercel.com/docs/cli#introduction/installing-the-cli) for more information).
