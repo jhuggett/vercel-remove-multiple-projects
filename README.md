@@ -1,5 +1,8 @@
 # TUI for deleting multiple Vercel projects
 
+The reason I built this, was to easily deal with the 100+ projects I had accrued while building out a CMS integration with Vercel. Manually deleting each one was so daunting, that instead, I spent even more time to build a tool that'll do it for me (as one does). 
+
+## Instructions
 
 Make sure you have the Vercel CLI installed globally first. Install it by running `npm i -g vercel` (see [here](https://vercel.com/docs/cli#introduction/installing-the-cli) for more information).
 
